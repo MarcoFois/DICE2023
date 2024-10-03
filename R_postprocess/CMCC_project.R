@@ -66,5 +66,4 @@ server <- function(input, output) {
   
 }
 
-# Lanciare l'applicazione Shiny
 shinyApp(ui = ui, server = server)
